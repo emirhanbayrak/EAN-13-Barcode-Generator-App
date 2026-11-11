@@ -1,0 +1,6 @@
+{
+  "name": "Serial EAN-13 Barcode Generator",
+  "description": "An application to generate sequential EAN-13 barcodes based on a starting barcode, and associate them with product names. All data is stored locally in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
